@@ -1,0 +1,50 @@
+city,temperature,humidity,wind_speed,feelslike,weather_descriptions
+Tiznit,23,49,19,25,Sunny
+Tiflet,22,57,17,24,Partly cloudy
+Tétouan,23,53,21,25,Sunny
+Temara,28,81,22,32,Cloudy 
+Taza,16,41,19,16,Sunny
+Taroudant,23,53,21,25,Sunny
+Taourirt,24,14,23,23,Sunny
+Tangier,20,73,18,20,Partly cloudy
+Sidi Slimane,20,67,15,20,Sunny
+Sidi Kacem,22,57,14,24,Sunny
+Settat,23,61,23,24,Partly cloudy
+Sefrou,21,64,14,21,Sunny
+Salé,18,53,20,18,Thundery outbreaks in nearby
+Safi,45,10,21,47,Sunny
+Rabat,22,57,23,25,Partly cloudy
+Oulad Teïma,26,33,23,26,Sunny
+Oujda,24,54,21,25,Partly cloudy
+Oued Zem,25,33,17,25,Sunny
+Nador,23,47,19,25,Sunny
+Mohammedia,21,60,24,21,Partly cloudy
+Meknes,22,57,14,24,Sunny
+Marrakesh,25,51,14,25,Sunny
+Larache,20,63,21,20,Sunny
+Ksar El Kebir,26,21,16,24,Sunny
+Khouribga,24,31,22,24,Sunny
+Khenifra,22,57,24,25,Partly cloudy
+Kenitra,22,57,24,25,Partly cloudy
+Inezgane,24,57,14,26,Partly cloudy
+Guercif,28,26,8,26,Sunny
+Guelmim,26,39,21,26,Sunny
+Fnidek,23,53,21,25,Sunny
+Al Fqih Ben Çalah,31,46,8,31,Sunny
+Fes,26,94,5,30,Light Rain
+Essaouira,26,37,43,28,Sunny
+El Kelaa des Srarhna,26,34,12,26,Sunny
+El Jadida,30,24,11,28,Sunny
+Dar Bouazza,22,57,14,24,Sunny
+Casablanca,21,60,23,21,Partly cloudy
+Bouskoura,23,61,23,25,Partly cloudy
+Berkane,24,54,15,25,Partly cloudy
+Beni Mellal,24,35,10,24,Sunny
+Ben Guerir,21,60,23,21,Partly cloudy
+Berrechid,23,61,24,25,Partly cloudy
+Khemisset,22,57,17,24,Sunny
+Al Hoceïma,29,20,27,28,Sunny
+Agadir,24,57,14,26,Partly cloudy
+Ait Melloul,25,51,14,25,Sunny
+Salé Al Jadida,21,62,23,21,Sunny
+Ouislane,26,12,16,24,Sunny
